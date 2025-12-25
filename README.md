@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditiirautela
-- 👀 I’m interested in programming and biology
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate with other tech communities
 - 📫 How to reach me aditiirautela@gmail.com
